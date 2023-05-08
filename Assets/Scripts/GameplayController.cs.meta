@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5ce6fd152add5d24188b4be2b10963c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rock_Sprite: {fileID: 21300000, guid: d10737ca74b0de74aae39f006cbb6497, type: 3}
+  - paper_Sprite: {fileID: 21300000, guid: c534a534e5982b743af701abfb7116d4, type: 3}
+  - scissors_Sprite: {fileID: 21300000, guid: eacc0766b49b43f48be4e4f14961cf13, type: 3}
+  - playerChoice_Img: {instanceID: 0}
+  - opponentChoice_Img: {instanceID: 0}
+  - infoText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
